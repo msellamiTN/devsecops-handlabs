@@ -2,14 +2,7 @@
 DevSecOps Lab
 #############
 
-Accompanying repository for the courses on Automated Security Testing on
-Pluralsight. Please note that these instructions can slightly differ from the
-ones being shown during the courses - this repository is leading.
-
-+ https://app.pluralsight.com/library/courses/approaching-automated-security-testing-devsecops/table-of-contents
-+ https://app.pluralsight.com/library/courses/performing-devsecops-automated-security-testing/table-of-contents
-+ https://app.pluralsight.com/library/courses/integrating-automated-security-testing-tools/table-of-contents
-
+ 
 **************
 What is this ?
 **************
