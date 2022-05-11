@@ -30,7 +30,7 @@ How to start
 
   .. code-block:: console
 
-     git clone https://github.com/PeterMosmans/devsecops-lab
+     git clone ttps://github.com/msellamiTN/devsecops-handlabs.git
      cd devsecops-lab
 
 + Find out the group ID of ``docker``:
